@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoScrolling</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="loreum_epsum">A key part of growing your app’s \ninstalled base is knowing more about your \nusers — how they discover your app, \nwhat devices they use, what they do when \nthey use your app, and how often they return to it. \nUnderstanding your users is now made easier \nthrough a new integration between \nGoogle Analytics and the Google Play Developer Console.
+
+\nStarting today, you can link your \nGoogle Analytics account with your Google \nPlay Developer Console to get powerful new \ninsights into your app’s user acquisition \nand engagement. In Google Analytics,\n you’ll get a new report highlighting which\n campaigns are driving the most views, installs, and new users in Google Play. \nIn the Developer Console, you’ll get \nnew app stats that let you easily see\n your app’s engagement based on \nAnalytics data.
+
+This combined data \ncan help you take your app \nbusiness to the next level, especially\n if you’re using multiple campaigns or monetizing\n through advertisements and in-app products that \ndepend on high engagement. Linking Google Analytics\n to your Developer Console is straightforward — \nthe sections below explain the new types of data you can get and how to get started.</string>
+
+</resources>
